@@ -2,6 +2,11 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/KeyErrorFinn/rpuk-streamdeck-profiles)](https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/commits/main) [![Issues](https://img.shields.io/github/issues/KeyErrorFinn/rpuk-streamdeck-profiles)](https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/issues)
 
+<p align="center">
+  <img alt="Stream Deck" src="https://img.shields.io/badge/Stream%20Deck-101010?logo=elgato&logoColor=fff" />
+  <img alt="7-Zip" src="https://img.shields.io/badge/7-Zip-000000?logo=7zip&logoColor=fff" />
+</p>
+
 An archive repository containing an exported Stream Deck profile package for RPUK use.
 
 ## Contents
