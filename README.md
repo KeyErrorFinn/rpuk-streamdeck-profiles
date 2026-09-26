@@ -1,6 +1,9 @@
 # RPUK Stream Deck Profiles
 
-[![Last commit](https://img.shields.io/github/last-commit/KeyErrorFinn/rpuk-streamdeck-profiles)](https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/commits/main) [![Issues](https://img.shields.io/github/issues/KeyErrorFinn/rpuk-streamdeck-profiles)](https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/issues)
+<p align="center">
+  <a href="https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KeyErrorFinn/rpuk-streamdeck-profiles" /></a>
+  <a href="https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/KeyErrorFinn/rpuk-streamdeck-profiles" /></a>
+</p>
 
 <p align="center">
   <img alt="Stream Deck" src="https://img.shields.io/badge/Stream%20Deck-101010?logo=elgato&logoColor=fff" />
