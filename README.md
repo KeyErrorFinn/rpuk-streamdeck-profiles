@@ -1,7 +1,7 @@
 # RPUK Stream Deck Profiles
 
 <p align="center">
-  <img src="assets/logo.svg" alt="rpuk-streamdeck-profiles logo" width="480" />
+  <img src="assets/logo.png" alt="rpuk-streamdeck-profiles logo" width="480" />
 </p>
 
 <p align="center">
