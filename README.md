@@ -1,6 +1,10 @@
 # RPUK Stream Deck Profiles
 
 <p align="center">
+  <img src="assets/logo.svg" alt="rpuk-streamdeck-profiles logo" width="480" />
+</p>
+
+<p align="center">
   <a href="https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KeyErrorFinn/rpuk-streamdeck-profiles" /></a>
   <a href="https://github.com/KeyErrorFinn/rpuk-streamdeck-profiles/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/KeyErrorFinn/rpuk-streamdeck-profiles" /></a>
 </p>
